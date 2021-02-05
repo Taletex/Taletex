@@ -1,5 +1,5 @@
-### Hi there 👋
-
+## Hi there! Welcome to my GitHub Page 👋
+I'm a computer engineer. I mainly develop web applications, videogames, IoT, and Android applications. 
 <!--
 **Taletex/Taletex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
